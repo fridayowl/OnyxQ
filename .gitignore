@@ -1,0 +1,24 @@
+# Build directories
+build/
+bin/
+obj/
+
+# Compilations
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.exe
+a.out
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
